@@ -1,3 +1,3 @@
 # KirillResume
 Результат вы можете посмотреть тут:
-Моя первая работа в HTML&CSS(https://github.com/KerikKerik/KirillResume/edit/main/README.md)
+[Моя первая работа в HTML&CSS](https://kerikkerik.github.io/resume/)
